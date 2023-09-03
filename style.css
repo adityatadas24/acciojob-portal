@@ -1,0 +1,397 @@
+
+*{
+    font-family:  !important;
+}
+.navigation{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: satoshi, sans-serif;
+    
+}
+.navigation>h6{
+    color: #012555 !important;
+    padding-top: 10px;
+}
+.img-1{
+    margin-right: 300px;
+}
+.verticle-1{
+    width: 1px;
+    height: 40px;
+  border: 1px solid #dadada;
+}
+.navigation>p{
+    margin-top: 10px;
+    margin-right: 20px;
+    color: #4f4f4f;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn-1{
+    border: 2px solid #2f80ed !important;
+    border-radius: 10px !important;
+    
+}
+.heading{
+    background-color: #2f80ed;
+    width: 100%;
+    height: 30px;
+}
+.sec-1{
+    margin-top: 120px;
+}
+.para-1{
+    width: 75%;
+    font-weight: 400 !important;
+    font-style: italic;
+    margin-bottom: 25px;
+    
+}
+.para-1>span{
+    color: #2f80ed;
+}
+.para-2{
+    width: 55%;
+    color: #595959;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image-1{
+
+    width: 40px;
+    height: 40px;
+}
+.para-1-2{
+    font-size: 9px;
+    position: relative;
+    bottom: 5px;
+}
+.my-card{
+    width: 90%;
+    padding: 8px;
+    border-radius: 10px !important;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 40px #e6e3e3;
+   
+}
+.my-card-1{
+    position: relative;
+    top: 10px;
+    
+}
+
+.para-3{
+    font-size: 35px !important;
+    font-weight: 400 !important;
+    font-style: italic;
+    margin-top: 30px;
+}
+.my-card-2{
+    position: relative;
+    bottom:20px;
+    text-align: center;
+    border-radius: 20px !important;
+    box-shadow: 0px 0px 60px #2f80ed;
+}
+.para-3-1{
+   font-size: 16px !important;
+   color: #838f9e;  
+}
+.my-card-3{
+    width:85%;
+    margin-left: 40px;
+    background-color: #fafafa !important;
+    border: none !important; 
+}
+.my-card-4>img{
+    width: 25px;
+    height: 20px;
+}
+.my-card-4>h4{
+    font-weight: 400;
+    font-size: 16px;
+}
+.h4-1{
+    color: #838f9e;
+}
+.btn-2{
+    width: 85%;
+    padding: 15px !important;
+    font-size: 20px !important;
+    border-radius: 10px !important;
+    background: linear-gradient(0.25turn, #3978ed, #8e38ed) !important;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+.par-1{
+    width: 80% !important;
+    margin-bottom: 30px;
+    color: #838f9e;
+
+}
+.par-2{
+    color:#2f80ed;
+}
+.sec-2{
+    background-color: #ecf8ff;
+    padding-top: 50px;
+    margin-top: 50px;
+   height: 750px;
+   border-bottom: 1px solid #bec3ca;
+   
+  
+}
+.par-3{
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    font-weight: 380;
+    color: #7054ee;
+    font-style: italic;
+  
+}
+.par-3>span{
+    position: relative;
+    top: 5px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #2f80ed;
+    font-style: normal;
+    
+}
+ .ideal-1{
+    background-color: #2f80ed;
+    width: fit-content;
+    border-radius: 5px;
+    
+   
+} 
+.my-card-sec{
+    padding-top: 20px;
+    padding-bottom: 25px;
+   text-align: center; 
+   width: 39%;
+   border: 2px solid blue !important;
+   border-radius: 10px !important;
+   position: fixed;
+   
+}
+.sec-5{
+  margin-left: 200px !important;
+}
+.my-card-sec>h4{
+  
+    font-style: italic;
+}
+.my-card-sec:hover{
+    box-shadow: 0px 0px 50px #1d78b0;
+    height: 490px !important;
+}
+.gar-1{
+   
+    margin-left: 40px;
+}
+.job{
+   text-align: center; 
+    width: fit-content;
+    border-radius: 10px;
+    background-color: #e0f3ff;
+    padding: 5px;
+    margin: 8px;
+    color: #1d78b0;
+    
+}
+.pla-1{
+ 
+ font-size: 17px !important;
+ font-weight: 500;
+ 
+
+}
+.pla-1>span{
+    padding-left: 70px;
+    font-style: italic;
+    
+}
+.pla-1>img{
+    width: 35px;
+    height: 25px;
+}
+
+.bor-1{position: relative;
+    left: 20px;
+    bottom: 5px;
+  width: 450px;
+  border-bottom: 1px solid #cccccc;
+}
+.bor-2{position: relative;
+    left: 20px;
+    bottom: 10px;
+  width: 450px;
+  border-bottom: 1px solid #cccccc;
+}
+.year-1{
+    width: 80%;
+}
+.pla-2{
+  margin-left: 60px;
+}
+.pla-2-1{
+    width: 90%;
+}
+.pla-2-2{
+    margin-left: 10px;
+}
+.pla-2-3{
+    margin-left: 15px;
+}
+.pla-2-4{
+    margin-left: 5px;
+}
+.btns-2{
+   margin-left: 35px !important;
+  padding: 8px !important;
+  
+}
+.btns-3{
+    margin-left: 30px !important;
+  padding: 8px !important;
+}
+.btns-3:hover{
+    font-size: larger;
+    box-shadow: 0px 0px 20px #3978ed;
+}
+.pla-2-5{
+    width: 100%;
+}
+.job-1{
+    text-align: center; 
+     width: fit-content;
+     border-radius: 10px;
+     background-color: #ffeed8;
+     padding: 5px;
+     margin: 8px;
+     color: #b07a36;
+     
+ }
+ .my-card-sec-1{
+    position: fixed;
+    padding-top: 20px;
+    padding-bottom: 25px;
+   text-align: center; 
+   width: 39%;
+  
+   border-radius: 10px !important;
+   
+}
+.vols-2{
+    color: #676767;
+}
+.my-card-sec-1>h4{
+  
+    font-style: italic;
+}
+.my-card-sec-1:hover{
+    box-shadow: 0px 0px 50px #1d78b0;
+
+    
+}
+.soft-1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #5e5e5e;
+}
+.company-1{
+    width: 95% !important;
+    flex-wrap: wrap;
+   text-align: justify;
+    
+}
+.company-1>img{
+    padding: 35px !important;
+}
+.report-1{
+    background-color: #2f80ed !important;
+    width: 20%;
+    margin-top: 30px;
+    padding: 15px !important;
+    border-radius: 10px !important;
+}
+.report-1:hover{
+    box-shadow: 0px 0px 40px #2f80ed;
+    font-size: larger;
+}
+.sec-6{
+    margin-top: 50px;
+}
+.sec-6>p{
+  color: #5e5e5e;
+}
+.sec-7{
+    flex-wrap: wrap; 
+}
+.line-1{
+   border-bottom: 1px solid #d6d1d1;
+}
+.hire-1{
+    font-size: 18px;
+    font-style: italic;
+    background: linear-gradient(to right, #347ded, #8f37ed);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+.cards-1{
+    padding: 20px;
+    width: 30%;
+    height: fit-content;
+    border-radius: 10px !important;
+    box-shadow: 10px 10px 30px gainsboro;
+    border: 2px solid rgb(204, 198, 198) !important;
+}
+.cards-1>p{
+    color: #686868 !important;
+}
+.paragraph-1{
+   font-weight: 400;
+}
+.photo-1{
+    width: 70px ;
+    height: 70px !important;
+}
+.link-1{
+    width: 20px !important;
+    height: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+.up-1{
+    position: relative;
+    bottom: 70px;
+}
+.up-2{
+    position: relative;
+    bottom: 25px;
+}
+@media screen and (max-width:768px) {
+    .navigation{
+        flex-direction: column !important;
+    }
+    .verticle-1,.sec-1-2{
+        display: none;
+    }
+    
+    .my-card-2{
+       
+        width: 90%;
+    }
+    .par-3{
+        display: none;
+    }
+    .hiring-1{
+        width: 90%;
+    }
+    .sec-6{
+        flex-direction: column !important;
+    }
+   
+}
